@@ -1,5 +1,5 @@
 {
-  "name": "searchkit",
+  "name": "ih-searchkit",
   "version": "1.0.0",
   "description": "fork of searchkit",
   "main": "lib/index.js",
